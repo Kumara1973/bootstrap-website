@@ -1,0 +1,31 @@
+#intro{
+    background-color: cyan;
+}
+
+#middle{
+    background-color:rgb(155, 255, 192);
+}
+
+#end{
+    background-color: brown;
+}
+
+#who{
+    height: 300px;
+    width: 300px;
+}
+
+#rainforest{
+    height: 100px;
+    width: 150px;
+}
+
+#desert{
+    height: 100px;
+    width: 150px;
+}
+
+#tundra{
+    height: 100px;
+    width: 100px;
+}
