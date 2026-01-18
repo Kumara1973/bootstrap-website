@@ -33,3 +33,8 @@
 .cool-font{
     font-family: "Audiowide", sans-serif;
 }
+
+.carousel-item img{
+    width:100%;
+    height:500px;
+}
